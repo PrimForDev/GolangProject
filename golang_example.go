@@ -1,4 +1,4 @@
-package golang_example
+package golangProject
 
 import "fmt"
 
